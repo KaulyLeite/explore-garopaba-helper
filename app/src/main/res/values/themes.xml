@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExploreGaropabaHelper" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorSecondary">@color/gray</item>
+        <item name="colorAccent">@color/dark_gray</item>
+    </style>
+
+    <style name="Theme.ExploreGaropabaHelper" parent="Base.Theme.ExploreGaropabaHelper" />
+</resources>
